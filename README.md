@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MrNobody42
-- 👀 I’m interested in : tudo na area de ciencia da computação
+- 👀 I’m interested in : everything in the area of computer science
 - 🌱 I’m currently learning : C++
-- 💞️ I’m looking to collaborate on tudo que for preciso para aprimorar meu conhecimento 
+- 📂 I’m looking to collaborate on everything it takes to improve my knowledge
 - 📫 How to reach  me  Gmail: gustavogordiano20@gmail.com
  
 <!---
