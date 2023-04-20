@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MrNobody42
+- 👋 Hi, I’m Gustavo Gordiano
 - 👀 I’m interested in : everything in the area of computer science
 - 🌱 I’m currently learning : C++
 - 📂 I’m looking to collaborate on everything it takes to improve my knowledge
