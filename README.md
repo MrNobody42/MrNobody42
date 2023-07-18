@@ -1,9 +1,8 @@
 - 👋 Olá, Sou Gustavo Gordiano, estudante de Engenharia de software 1/8 semestre
-- 🌱 I’m currently learning : C++, HTML, CSS and JS
-- 📂 I’m looking to collaborate on everything it takes to improve my knowledge
-- 📫 How to reach  me  Gmail: gustavogordiano20@gmail.com
+- 📫 Gmail: gustavogordiano20@gmail.com
  
-<!---
-MrNobody42/MrNobody42 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div>
+  <a href="https://github.com/MrNobody42">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MrNobody42&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrNobody42&layout=compact&langs_count=7&theme=dark"/>
+</div>
