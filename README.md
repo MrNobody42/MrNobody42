@@ -1,2 +1,2 @@
-- 👋 Olá, Sou Gustavo Gordiano, estudante de Engenharia de software 1/8 semestre
+- 👋 Olá, Sou Gustavo Gordiano, estudante de Engenharia de software 4/8 semestre
 - 📫 Gmail: gustavogordiano20@gmail.com
