@@ -1,7 +1,6 @@
 # 👋 Olá, eu sou Gustavo Gordiano
 
-🎓 Estudante de Engenharia de Software (5º semestre)
-
+🎓 Estudante de Engenharia de Software
 💻 Desenvolvedor Full Stack, atuando no desenvolvimento de sistemas personalizados.
 
 🚀 Áreas de interesse:
